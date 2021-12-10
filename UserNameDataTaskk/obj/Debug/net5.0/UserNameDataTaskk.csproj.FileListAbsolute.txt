@@ -1,0 +1,16 @@
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.exe
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.deps.json
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.runtimeconfig.json
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.runtimeconfig.dev.json
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.dll
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\ref\UserNameDataTaskk.dll
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\bin\Debug\net5.0\UserNameDataTaskk.pdb
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.csproj.AssemblyReference.cache
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.AssemblyInfoInputs.cache
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.AssemblyInfo.cs
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.csproj.CoreCompileInputs.cache
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.dll
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\ref\UserNameDataTaskk.dll
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.pdb
+C:\Users\Olivia\source\repos\Functions\UserNameDataTaskk\obj\Debug\net5.0\UserNameDataTaskk.genruntimeconfig.cache
